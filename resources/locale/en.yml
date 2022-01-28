@@ -1,4 +1,4 @@
-littlecxm-whisper:
+kyrne-whisper:
   admin:
     settings:
       return_key: Return key sends message
@@ -21,11 +21,11 @@ littlecxm-whisper:
       more_users: >-
         If you don't see the user you are looking for, they don't have private
         messaging setup.
-      already: 'You already have a conversation with {username}.'
+      already: "You already have a conversation with {username}."
     chat:
       messages_single: New conversation
       messages_multiple: "{count} total messages"
-      chat_with: 'Chat with {username}'
+      chat_with: "Chat with {username}"
       start: Start Conversation
       start_of_conversation: Start of Conversation
       read: Read
